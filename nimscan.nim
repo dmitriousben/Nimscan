@@ -11,7 +11,7 @@
 # ╚══════════════════════════════════════════════════════════╝
 #
 # compile:
-#   nim c --threads:on -r netscanner.nim
+#   nim c --threads:on -r nimscan.nim
 #
 # usage:
 #   ./netscanner scan   -t 192.168.1.1 -p 1-1024
